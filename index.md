@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+---
+driveId: 1RDxB6372smxcfzK-MNZ0QYRSInbKlyP5/preview
+---
 
-You can use the [editor on GitHub](https://github.com/Shaun-Richardson/CS499-Capstone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Self-Assessment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Under construction...
 
-### Markdown
+## Chosen Artifact 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Under construction...
 
-```markdown
-Syntax highlighted code block
+## Code Review
+# Embed Google Drive 
 
-# Header 1
-## Header 2
-### Header 3
+<!---
+Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
 
-- Bulleted
-- List
+Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
+-->
 
-1. Numbered
-2. List
+{% include googleDrivePlayer.html id=page.driveId %}
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Enhancement One: Software Design and Engineering
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Under construction...
 
-### Jekyll Themes
+## Enhancement Two: Algorithms and Data Structure
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shaun-Richardson/CS499-Capstone/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Under construction...
 
-### Support or Contact
+## Enhancement Three: Databases
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Under construction...
