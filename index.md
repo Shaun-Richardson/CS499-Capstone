@@ -15,7 +15,7 @@ My artifact comes from the CS-260 Data Structures and Algorithms course at SNHU.
 {% include googleDrivePlayer.html id=page.driveId %}
 
 
-## Enhancement One: Software Design and Engineering
+## [Enhancement One: Software Design and Engineering](https://github.com/Shaun-Richardson/CS499-Capstone/tree/gh-pages/EnhancementOne) 
 
 Under construction! Feel free to check back later.
 
