@@ -19,7 +19,7 @@ My artifact comes from the CS-260 Data Structures and Algorithms course at SNHU.
 
 Under construction! Feel free to check back later.
 
-## Enhancement Two: Algorithms and Data Structure
+## [Enhancement Two: Algorithms and Data Structure](https://github.com/Shaun-Richardson/CS499-Capstone/tree/gh-pages/EnhancementTwo)
 
 Under construction! Feel free to check back later.
 
