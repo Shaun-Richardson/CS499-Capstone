@@ -23,6 +23,6 @@ Under construction! Feel free to check back later.
 
 Under construction! Feel free to check back later.
 
-## Enhancement Three: Databases
+## [Enhancement Three: Databases](https://github.com/Shaun-Richardson/CS499-Capstone/tree/gh-pages/EnhancementThree)
 
 Under construction! Feel free to check back later.
